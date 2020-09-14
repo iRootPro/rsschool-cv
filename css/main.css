@@ -1,0 +1,43 @@
+
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+}
+
+hr {
+    background-color: #f6f3f3;
+}
+
+a {
+    font-size: 18px;
+    color: #ef8787;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.container {
+    width: 1024px;
+    align-content: center;
+}
+
+
+.name {
+    font-weight: 700;
+    text-align: center;
+}
+
+.photo-container {
+    text-align: center;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+}
+
+.header {
+    font-size: 24px;
+}
