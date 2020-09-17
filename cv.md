@@ -2,7 +2,7 @@ Alexander Neupokoev
 ======
 
 #### JS, React developer
-###### [ [irootpro.github.io](http://irootpro.github.io/) ]  [ admin@armavir.ru ] . [ +7 988 37 98 100 ] . [telegram: [@iRootPro](https://t.me/iRootPro)]
+###### [ [irootpro.github.io](https://github.com/iRootPro) ]  [ admin@armavir.ru ] . [ +7 988 37 98 100 ] . [telegram: [@iRootPro](https://t.me/iRootPro)]
 
 I am looking for a remote job as a developer.
 I study javascript, react. I learn quickly, self-organizing, independent. I like interesting and challenging tasks. Their decision brings joy and satisfaction.
